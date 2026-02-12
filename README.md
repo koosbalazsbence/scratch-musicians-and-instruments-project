@@ -1,4 +1,4 @@
-# Musicians & Instruments – interaktív zenei bemutató
+## Musicians & Instruments – interaktív zenei bemutató
 
 Ez a dokumentáció a "Scratch projekt" feladathoz készült. A projekt célja a zene világának bemutatása, különös tekintettel a különböző hangszerekre és az emberi énekhangra egy interaktív zenekaron keresztül.
 
@@ -6,7 +6,8 @@ Ez a dokumentáció a "Scratch projekt" feladathoz készült. A projekt célja a
 
 A program egy virtuális színpadot jelenít meg, ahol a felhasználó különböző zenészekkel és hangszerekkel léphet kapcsolatba. A projekt nem csupán passzív zenehallgatást tesz lehetővé, hanem a felhasználó aktivitására reagálva szólaltatja meg a különböző szólamokat.
 
-### Szereplők (Sprite-ok)
+## Szereplők (Sprite-ok)
+
 A projekt elszakad az alapértelmezett karakterektől, és három specifikus zenei szereplőt vonultat fel:
 * **Énekes:** A vokális teljesítményért felelős karakter.
 * **Gitáros:** A húros hangszerek hangzását mutatja be.
@@ -25,4 +26,5 @@ A projekt úgy készült, hogy megfeleljen a specifikus tantárgyi követelmény
     * **Változók:** A program változókat használ az állapotok nyomon követésére.
 * **Multimédia:** Minden karakterhez saját hangfájlok (ének, hangszerhangok) tartoznak, amelyek a megfelelő eseményekkor szólalnak meg.
 
-2026 - Koós Balázs Bence
+---
+##### 2026 - Koós Balázs Bence
