@@ -29,5 +29,11 @@ A projekt úgy készült, hogy megfeleljen a specifikus tantárgyi követelmény
 
 ***kb. 2-2.5 óra + egy egyszerű leírás, dokumentáció***
 
+## Képernyőképek a működésről
+
+A program futása közben a felhasználó interaktív párbeszédet folytat a szereplőkkel:
+
+![Képernyőkép a programról](scratch-musicians-image-I.png)
+
 ---
 ##### 2026 - Koós Balázs Bence - MIT License
