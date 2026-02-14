@@ -4,7 +4,7 @@ Ez a dokumentáció a "Scratch projekt" feladathoz készült. A projekt célja a
 
 ## Projektleírás
 
-A program egy virtuális színpadot jelenít meg, ahol a felhasználó különböző zenészekkel és hangszerekkel léphet kapcsolatba. A projekt nem csupán passzív zenehallgatást tesz lehetővé, hanem a felhasználó aktivitására reagálva szólaltatja meg a különböző szólamokat.
+A program egy virtuális színpadot jelenít meg, ahol a felhasználó különböző zenészekkel léphet kapcsolatba. A projekt nem csupán passzív zenehallgatást tesz lehetővé, hanem egyfajta ismertetés, a Scratch-ben megtalálható egyszerű komponensek használatát, funkcióját jeleníti meg.
 
 ## Szereplők
 
@@ -21,7 +21,7 @@ A projekt úgy készült, hogy megfeleljen a specifikus tantárgyi követelmény
 
 * **Sprite-ok használata:** A program három különálló karaktert (Sprite-ot) kezel, amelyek mindegyike egyedi kóddal rendelkezik.
 * **Programozási struktúrák:**
-    * **Feltételek:** A program figyeli az egérmutató pozícióját és az interakciókat (pl. érintés érzékelése, klikkelés).
+    * **Feltételek:** A program figyeli az interakciókat (pl. érintés érzékelése, klikkelés).
     * **Ciklusok:** Bizonyos spriteok-nál (énekes) addig kérdezi a felhasználót, amíg "Igen" választ nem kap a kérdésre.
 * **Multimédia:** Minden karakterhez saját hangfájlok (ének, hangszerhangok) tartoznak, amelyek a megfelelő eseményekkor szólalnak meg.
 
