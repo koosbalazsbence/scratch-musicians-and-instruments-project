@@ -33,7 +33,7 @@ A projekt úgy készült, hogy megfeleljen a specifikus tantárgyi követelmény
 
 A program futása közben a felhasználó interaktív párbeszédet folytat a szereplőkkel:
 
-![Képernyőkép a programról](scratch-musicians-image-I.png)
+![Képernyőkép a programról](assets/scratch-musicians-image-I.png)
 
 ---
 ##### 2026 - Koós Balázs Bence - MIT License
